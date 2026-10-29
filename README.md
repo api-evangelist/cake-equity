@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cake Equity is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Cake Equity provides a cap table and equity management platform for growing startups. It offers tools for accurate cap tables, compliance readiness, equity grant tracking, scenario modeling for raises, and an employee app that turns equity ownership into a performance driver. The platform supports migrations from other solutions and serves companies at all stages of growth, aiming to simplify complex equity workflows and improve decision‑making for finance and legal teams.
+
+**Areas:** Company · Equity · Cap Table · Startups · Software-as-a-Service · Finance
+
+## Cake Equity on APIs.io
+
+Everything profiled for Cake Equity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cake-equity/](https://apis.io/providers/cake-equity/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cake Equity Domain Security](https://apis.io/security/cake-equity/cake-equity-domain-security/)
+- [Cake Equity Trust Center](https://apis.io/security/cake-equity/cake-equity-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Cake Equity Plans Pricing](https://apis.io/plans/cake-equity/cake-equity-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cakeequity.com/)
+- [Documentation](https://docs.cakeequity.com/)
+- [Getting started](https://www.cakeequity.com/changelog/pulley-migration-built-into-onboarding)
+- [Pricing](https://www.cakeequity.com/pricing)
+- [Sign up](https://app.cakeequity.com/setup_company)
+- [Support](https://help.cakeequity.com/)
+- [Changelog](https://www.cakeequity.com/changelog)
+- [Blog](https://www.cakeequity.com/blog)
+- [Security](https://www.cakeequity.com/security)
+- [Compliance](https://trust.cakeequity.com/)
+- [Terms of service](https://www.cakeequity.com/terms)
+- [Privacy policy](https://www.cakeequity.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.3** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 92.1 |
+
+**Agent readiness 14.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cake-equity/](https://apis.io/providers/cake-equity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cake Equity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cake-equity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
